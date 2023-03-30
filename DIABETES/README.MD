@@ -6,6 +6,7 @@ This is a diabetes dataset downloaded from Kaggle. It contains information on th
 The dataset has been made available for public use and can be used for machine learning or statistical analysis projects.
 https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=diabetes_data.csv
 
+
 Dataset Description
 
 The dataset contains the following columns:
@@ -29,6 +30,8 @@ PhysActivity : physical activity in past 30 days - not including job 0 = no 1 = 
 Fruits : Consume Fruit 1 or more times per day 0 = no 1 = yes
 
 Veggies : Consume Vegetables 1 or more times per day 0 = no 1 = yes
+
+
 
 Possible Uses
 

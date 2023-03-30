@@ -34,7 +34,7 @@ Veggies : Consume Vegetables 1 or more times per day 0 = no 1 = yes
 
 
 
-Possible Uses
+POSSIBLE USES
 
 This dataset can be used for various purposes such as:
 

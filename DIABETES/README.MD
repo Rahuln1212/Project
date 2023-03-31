@@ -1,13 +1,13 @@
-DIABETES DATASET 
+<h1> DIABETES DATASET </h1> 
 
-Introduction
+<h2> Introduction </h2>
 
 This is a diabetes dataset downloaded from Kaggle. It contains information on the medical condition of patients with diabetes. 
 The dataset has been made available for public use and can be used for machine learning or statistical analysis projects.
 https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=diabetes_data.csv
 
 
-Dataset Description
+<h3> Dataset Description </h3>
 
 The dataset contains the following columns:
 
@@ -34,7 +34,7 @@ Veggies : Consume Vegetables 1 or more times per day 0 = no 1 = yes
 
 
 
-POSSIBLE USES
+<h4> POSSIBLE USES </h4>
 
 This dataset can be used for various purposes such as:
 

@@ -1,11 +1,11 @@
-LOAN CLASSIFICATION DATASET 
+<h1> LOAN CLASSIFICATION DATASET </h1> 
 
-Introduction
+<h2> Introduction </h2>
 
 This dataset contains information about loans and their associated classification (i.e., whether they are good or bad loans). 
 The dataset can be used for predictive modeling, risk analysis, and other similar applications.
 
-Data Description
+<h3> Data Description </h3>
 
 The dataset contains the following columns:
 
